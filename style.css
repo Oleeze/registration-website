@@ -1,0 +1,87 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+header{
+	width: 100%;
+	height: 60px;
+	background-color: pink;
+}
+
+nav ul {
+	float: right;
+	margin-top: 20px;
+	margin-right: 60px;
+}
+
+nav ul li {
+	list-style: none;
+	float: left;
+	margin-right: 20px;
+}
+
+nav ul li a {
+	color: #fff;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+nav ul form {
+	float: left;
+}
+
+nav ul form input{
+	float: left;
+	border: none;
+	margin-right: 6px;
+}
+
+nav ul form button{
+	float: left;
+	border: none;
+	margin-right: 20px;
+	background-color: white;
+	color: black;
+	font-size: 16px;
+}
+
+form {
+	text-align: center;
+	
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	width:455px;
+}
+
+input, textarea, file {
+	width:439px;
+	height:27px;
+	background-color:#efefef;
+	border-radius:5px;
+	border:1px solid #dedede;
+	padding:10px;
+	margin-top: 3px;
+	font-size:0.9em;
+	color:#3a3a3a;
+}
+
+h1, p{
+	margin: 15px;
+	 font-size: 250%;
+	text-align: center;
+}
+
+div.class {
+	text-align: center;
+	
+}
